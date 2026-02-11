@@ -103,10 +103,10 @@ No dependencies.
 
 🚀 Live Demo
 
-(Insert GitHub Pages link here)
+(https://github.com/CodeKunle/meme-Counter)
 
 📁 Project Structure
-/project-root
+/meme-Counter
 │
 ├── index.html
 ├── styles.css
